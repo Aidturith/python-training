@@ -1,2 +1,2 @@
 # python-training
-Exploring python and dev...
+Exploring python and dev!
