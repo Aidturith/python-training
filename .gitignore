@@ -101,3 +101,5 @@ ENV/
 .mypy_cache/
 .pydevproject
 .project
+.settings/org.eclipse.core.resources.prefs
+utils/http_check/data/
